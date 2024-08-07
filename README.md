@@ -11,13 +11,6 @@ Check out the live demo [here](https://vishaal21.github.io/Js_gsap_locomotive_we
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Running the Project Locally](#running-the-project-locally)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Overview
 
